@@ -2,8 +2,7 @@
 
 **Disciplina:** Estruturas de Dados e Análise de Algoritmos
 **Aula:** 03 - Notação Assintótica
-**Professor:** Alexandre de Oliveira
-**Repositório GitHub:** [SUBSTITUA AQUI PELO LINK DO SEU REPOSITÓRIO]
+**Professor:** Alexandre Montanha
 
 ---
 

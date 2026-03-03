@@ -2,7 +2,7 @@
 
 Este repositório contém as resoluções práticas e teóricas da lista de exercícios sobre **Notação Assintótica (Big-O)**. O objetivo principal é desenvolver o raciocínio analítico para classificar a complexidade de tempo de diferentes algoritmos no pior caso.
 
-Projeto desenvolvido como parte da disciplina de **Estruturas de Dados e Análise de Algoritmos** (Aula 03), ministrada pelo Prof. Alexandre de Oliveira.
+Projeto desenvolvido como parte da disciplina de **Estruturas de Dados e Análise de Algoritmos** (Aula 03), ministrada pelo Prof. Alexandre Montanha.
 
 ## 🎯 Objetivo do Repositório
 
@@ -22,7 +22,7 @@ Projeto desenvolvido como parte da disciplina de **Estruturas de Dados e Anális
 O projeto está organizado da seguinte forma:
 
 - Arquivos `.py` (Ex: `exercicio1.py`, `exercicio2.py`...): Scripts contendo o código-fonte de cada algoritmo fornecido para execução e teste local.
-- `analise.md`: Documento principal contendo a classificação Big-O e a justificativa detalhada para cada um dos 10 algoritmos propostos.
+- `analise_complexidade_assintotica.md`: Documento principal contendo a classificação Big-O e a justificativa detalhada para cada um dos 10 algoritmos propostos.
 
 ## 🚀 Como Executar Localmente
 

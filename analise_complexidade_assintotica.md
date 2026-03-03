@@ -1,8 +1,8 @@
 # Análise de Complexidade Assintótica (Big-O)
 
-**Disciplina:** Estruturas de Dados e Análise de Algoritmos
-**Aula:** 03 - Notação Assintótica
-**Professor:** Alexandre Montanha
+**Disciplina:** Estruturas de Dados e Análise de Algoritmos  
+**Aula:** 03 - Notação Assintótica  
+**Professor:** Alexandre Montanha  
 
 ---
 
